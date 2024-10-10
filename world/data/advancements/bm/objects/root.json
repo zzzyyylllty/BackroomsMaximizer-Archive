@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:bookshelf"
+        },
+        "title": "§7§l物品展览馆",
+        "description": "§C这里查看你收集了什么物品！",
+        "background": "minecraft:textures/blocks/concrete_gray.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "tick1": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

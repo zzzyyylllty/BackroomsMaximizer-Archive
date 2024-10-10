@@ -1,0 +1,94 @@
+{
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2023-12-29 13:31:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2023-12-29 13:39:10 +0800"
+    },
+    "done": true
+  },
+  "bm:superchallenges/root": {
+    "criteria": {
+      "tick1": "2023-12-29 13:29:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-12-29 13:33:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-12-29 13:33:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-12-29 13:33:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "wither_skeleton": "2023-12-29 13:39:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "wither_skeleton": "2023-12-29 13:39:08 +0800"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2023-12-29 13:33:02 +0800",
+      "carrot": "2023-12-29 13:35:48 +0800"
+    },
+    "done": false
+  },
+  "bm:objects/almondwater_gray": {
+    "criteria": {
+      "getitem": "2023-12-29 13:32:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-12-29 13:39:08 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/root": {
+    "criteria": {
+      "tick1": "2023-12-29 13:29:03 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/level1": {
+    "criteria": {
+      "impossible": "2023-12-29 13:32:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2023-12-29 13:29:15 +0800",
+      "jungle": "2023-12-29 13:29:04 +0800"
+    },
+    "done": false
+  },
+  "bm:objects/root": {
+    "criteria": {
+      "tick1": "2023-12-29 13:29:03 +0800"
+    },
+    "done": true
+  }
+}

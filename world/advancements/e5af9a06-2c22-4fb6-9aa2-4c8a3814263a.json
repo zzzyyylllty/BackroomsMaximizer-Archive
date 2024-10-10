@@ -1,0 +1,63 @@
+{
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-01-06 19:29:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-01-06 19:32:15 +0800"
+    },
+    "done": false
+  },
+  "bm:superchallenges/root": {
+    "criteria": {
+      "tick1": "2024-01-06 19:27:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-01-06 19:35:45 +0800"
+    },
+    "done": true
+  },
+  "bm:objects/almondwater_gray": {
+    "criteria": {
+      "getitem": "2024-01-06 19:32:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-01-06 19:32:15 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/root": {
+    "criteria": {
+      "tick1": "2024-01-06 19:27:19 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/level1": {
+    "criteria": {
+      "impossible": "2024-01-06 19:30:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2024-01-06 19:27:47 +0800",
+      "jungle": "2024-01-06 19:27:20 +0800"
+    },
+    "done": false
+  },
+  "bm:objects/root": {
+    "criteria": {
+      "tick1": "2024-01-06 19:27:19 +0800"
+    },
+    "done": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:flower_pot",
+            "data": 0
+        },
+        "title": "§FLevel 33 - §7“无尽购物体验”",
+        "description": "不买立省100%",
+        "frame": "task"
+    },
+    "parent": "bm:mainline/level32",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

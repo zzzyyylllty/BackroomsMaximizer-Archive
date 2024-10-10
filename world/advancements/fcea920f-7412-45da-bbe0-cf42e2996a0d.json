@@ -1,0 +1,33 @@
+{
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2023-12-26 09:04:53 +0800"
+    },
+    "done": true
+  },
+  "bm:superchallenges/root": {
+    "criteria": {
+      "tick1": "2023-12-26 09:02:47 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/root": {
+    "criteria": {
+      "tick1": "2023-12-26 09:02:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2023-12-26 09:03:13 +0800",
+      "jungle": "2023-12-26 09:02:42 +0800"
+    },
+    "done": false
+  },
+  "bm:objects/root": {
+    "criteria": {
+      "tick1": "2023-12-26 09:02:47 +0800"
+    },
+    "done": true
+  }
+}

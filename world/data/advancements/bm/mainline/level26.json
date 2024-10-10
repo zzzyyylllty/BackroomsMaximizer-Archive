@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:gray_glazed_terracotta",
+            "data": 0
+        },
+        "title": "§FLevel 26 - §7“恍如隔世”",
+        "description": "他切入到Level 26，看到“监督者之眼”正在把一名士兵拖进一扇橡木门中时，他感慨道：“啊，M.E.G.，我认出你来了。”"
+    },
+    "parent": "bm:mainline/level25",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

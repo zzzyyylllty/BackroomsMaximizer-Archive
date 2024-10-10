@@ -1,0 +1,27 @@
+{
+  "bm:superchallenges/root": {
+    "criteria": {
+      "tick1": "2023-12-29 20:09:08 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/root": {
+    "criteria": {
+      "tick1": "2023-12-29 20:09:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2023-12-29 20:09:20 +0800",
+      "jungle": "2023-12-29 20:09:07 +0800"
+    },
+    "done": false
+  },
+  "bm:objects/root": {
+    "criteria": {
+      "tick1": "2023-12-29 20:09:08 +0800"
+    },
+    "done": true
+  }
+}

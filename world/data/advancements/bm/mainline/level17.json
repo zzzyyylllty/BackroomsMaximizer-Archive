@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:concrete",
+            "data": 7
+        },
+        "title": "§FLevel 17 - §7“航空母舰”",
+        "description": "《 航 空 * 舰 》"
+    },
+    "parent": "bm:mainline/level16",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

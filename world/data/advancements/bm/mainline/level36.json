@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:concrete",
+            "data": 8
+        },
+        "title": "§FLevel 36 - §7“机场”",
+        "description": "牢大我想你了",
+        "frame": "task"
+    },
+    "parent": "bm:mainline/level35",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

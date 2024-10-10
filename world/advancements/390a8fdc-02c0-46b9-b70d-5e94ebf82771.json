@@ -1,0 +1,99 @@
+{
+  "bm:superchallenges/root": {
+    "criteria": {
+      "tick1": "2024-01-08 17:35:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-01-08 17:41:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_the_recipe": "2024-01-08 17:51:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-01-08 17:41:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-01-08 17:49:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2024-01-08 17:51:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-01-08 17:41:23 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-01-08 17:49:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-01-08 17:49:32 +0800"
+    },
+    "done": true
+  },
+  "bm:objects/almondwater_gray": {
+    "criteria": {
+      "getitem": "2024-01-08 17:40:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-01-08 17:45:59 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/level0": {
+    "criteria": {
+      "impossible": "2024-01-08 17:37:52 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/root": {
+    "criteria": {
+      "tick1": "2024-01-08 17:35:43 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/level2": {
+    "criteria": {
+      "impossible": "2024-01-08 17:43:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2024-01-08 17:36:15 +0800",
+      "jungle": "2024-01-08 17:35:44 +0800"
+    },
+    "done": false
+  },
+  "bm:objects/root": {
+    "criteria": {
+      "tick1": "2024-01-08 17:35:43 +0800"
+    },
+    "done": true
+  }
+}

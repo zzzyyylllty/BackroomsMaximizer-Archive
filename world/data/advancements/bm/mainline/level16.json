@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:sapling",
+            "data": 2
+        },
+        "title": "§FLevel 16 - §3“地形转变”",
+        "description": "这里不会有自爆的伏地魔吧?",
+        "frame": "goal"
+    },
+    "parent": "bm:mainline/level15",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

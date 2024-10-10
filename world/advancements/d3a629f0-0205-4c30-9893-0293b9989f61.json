@@ -1,0 +1,63 @@
+{
+  "bm:superchallenges/root": {
+    "criteria": {
+      "tick1": "2023-12-31 19:26:50 +0800"
+    },
+    "done": true
+  },
+  "bm:objects/almondwater_gray": {
+    "criteria": {
+      "getitem": "2023-12-31 19:34:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-12-31 19:36:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-12-31 19:38:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2023-12-31 19:38:49 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/level0": {
+    "criteria": {
+      "impossible": "2023-12-31 19:33:23 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/root": {
+    "criteria": {
+      "tick1": "2023-12-31 19:26:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2023-12-31 19:38:49 +0800"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2023-12-31 19:32:14 +0800",
+      "jungle": "2023-12-31 19:26:44 +0800"
+    },
+    "done": false
+  },
+  "bm:objects/root": {
+    "criteria": {
+      "tick1": "2023-12-31 19:26:50 +0800"
+    },
+    "done": true
+  }
+}

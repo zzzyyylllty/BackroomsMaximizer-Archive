@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:concrete",
+            "data": 0
+        },
+        "title": "§FLevel 15 - §7“未来走廊”",
+        "description": "未来来了吗?如来.如来来没来?如来"
+    },
+    "parent": "bm:mainline/level14",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

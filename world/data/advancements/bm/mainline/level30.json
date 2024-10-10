@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:wool",
+            "data": 0
+        },
+        "title": "§FLevel 30 - §7“超越现实”",
+        "description": "†升天†",
+        "frame": "task"
+    },
+    "parent": "bm:mainline/root",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

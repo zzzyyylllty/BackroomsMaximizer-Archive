@@ -1,0 +1,45 @@
+{
+  "bm:superchallenges/root": {
+    "criteria": {
+      "tick1": "2023-12-31 13:40:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-12-31 13:46:04 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/level0": {
+    "criteria": {
+      "impossible": "2023-12-31 13:42:53 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/root": {
+    "criteria": {
+      "tick1": "2023-12-31 13:40:57 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/level1": {
+    "criteria": {
+      "impossible": "2023-12-31 13:45:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2023-12-31 13:41:19 +0800",
+      "jungle": "2023-12-31 13:40:58 +0800"
+    },
+    "done": false
+  },
+  "bm:objects/root": {
+    "criteria": {
+      "tick1": "2023-12-31 13:40:57 +0800"
+    },
+    "done": true
+  }
+}

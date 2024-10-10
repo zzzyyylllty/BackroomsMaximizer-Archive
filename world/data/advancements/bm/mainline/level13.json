@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:wool",
+            "data": 12
+        },
+        "title": "§FLevel 13 - §7“无限公寓”",
+        "description": "这公寓有无线吗?"
+    },
+    "parent": "bm:mainline/level12",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

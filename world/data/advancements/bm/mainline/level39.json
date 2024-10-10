@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:log",
+            "data": 1
+        },
+        "title": "§FLevel 39 - §7“魔法森林”",
+        "description": "9 3/4的森林",
+        "frame": "task"
+    },
+    "parent": "bm:mainline/level38",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

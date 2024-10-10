@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:potion",
+            "nbt": "{display:{Name:\"§7灰色杏仁水\"}}"
+        },
+        "title": "§7灰色杏仁水",
+        "frame": "task",
+        "description": "获得一瓶灰色杏仁水"
+    },
+    "parent": "bm:objects/root",
+    "criteria": {
+        "getitem": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:potion",
+                        "nbt": "{display:{Name:\"§7灰色杏仁水\"}}"
+                    }
+                ]
+            }
+        }
+    }
+}

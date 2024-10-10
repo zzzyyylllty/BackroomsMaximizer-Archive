@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:concrete_powder",
+            "data": 8
+        },
+        "title": "§FLevel 24 - §7“月球”",
+        "description": "兄啊，月球上怎么会有煤炭和金金金金金啊(恼"
+    },
+    "parent": "bm:mainline/level23",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

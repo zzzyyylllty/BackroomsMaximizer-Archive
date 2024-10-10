@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stained_hardened_clay",
+            "data": 3
+        },
+        "title": "§FLevel 29 - §3“海波利亚”",
+        "description": "生存难度：等级0.4",
+        "frame": "goal"
+    },
+    "parent": "bm:mainline/level28",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

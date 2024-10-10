@@ -1,0 +1,69 @@
+{
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-01-01 12:55:26 +0800"
+    },
+    "done": false
+  },
+  "bm:superchallenges/root": {
+    "criteria": {
+      "tick1": "2023-12-31 20:59:29 +0800"
+    },
+    "done": true
+  },
+  "bm:objects/almondwater_gray": {
+    "criteria": {
+      "getitem": "2024-01-01 12:54:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-01-01 12:55:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-12-31 21:02:45 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/root": {
+    "criteria": {
+      "tick1": "2023-12-31 20:59:29 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/level0": {
+    "criteria": {
+      "impossible": "2023-12-31 21:04:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2023-12-31 21:00:02 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/level1": {
+    "criteria": {
+      "impossible": "2024-01-01 12:54:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2023-12-31 20:59:59 +0800",
+      "jungle": "2023-12-31 20:59:30 +0800"
+    },
+    "done": false
+  },
+  "bm:objects/root": {
+    "criteria": {
+      "tick1": "2023-12-31 20:59:29 +0800"
+    },
+    "done": true
+  }
+}

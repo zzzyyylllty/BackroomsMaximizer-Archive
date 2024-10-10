@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cyan_glazed_terracotta",
+            "data": 0
+        },
+        "title": "§FLevel 28 - §7“嵐石要塞”",
+        "description": "那我缺的蓝骑士这块谁给我补啊"
+    },
+    "parent": "bm:mainline/level27",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

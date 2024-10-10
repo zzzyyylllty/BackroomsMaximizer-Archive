@@ -1,0 +1,15 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:water_bucket"
+        },
+        "title": "§FLevel 7 - §7“深海恐惧症”",
+        "description": "遨游于电子海洋中的Internet Boy"
+    },
+    "parent": "bm:mainline/level6",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

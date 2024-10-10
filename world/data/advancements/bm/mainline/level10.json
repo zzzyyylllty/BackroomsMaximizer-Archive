@@ -1,0 +1,15 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:farmland"
+        },
+        "title": "§FLevel 10 - §7“丰裕”",
+        "description": "某家庭因收割这里的麦子煮粥忘记开窗户导致114514氧中毒,这告诉我们煮饭的时候一定要记得开窗户."
+    },
+    "parent": "bm:mainline/root",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

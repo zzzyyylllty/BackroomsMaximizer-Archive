@@ -1,0 +1,33 @@
+{
+  "bm:superchallenges/root": {
+    "criteria": {
+      "tick1": "2023-12-29 19:22:48 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/level0": {
+    "criteria": {
+      "impossible": "2023-12-29 19:24:44 +0800"
+    },
+    "done": true
+  },
+  "bm:mainline/root": {
+    "criteria": {
+      "tick1": "2023-12-29 19:22:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2023-12-29 19:23:39 +0800",
+      "jungle": "2023-12-29 19:22:49 +0800"
+    },
+    "done": false
+  },
+  "bm:objects/root": {
+    "criteria": {
+      "tick1": "2023-12-29 19:22:48 +0800"
+    },
+    "done": true
+  }
+}

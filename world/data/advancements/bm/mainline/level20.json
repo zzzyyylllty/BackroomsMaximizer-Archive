@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stained_hardened_clay",
+            "data": 9
+        },
+        "title": "§FLevel 20 - §7“仓库”",
+        "description": "你这仓库怎么什么物资都么有啊?(恼"
+    },
+    "parent": "bm:mainline/root",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

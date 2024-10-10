@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:concrete",
+            "data": 3
+        },
+        "title": "§FLevel 37 - §7“崇高”",
+        "description": "你逐渐感到平静.........个1234，这关怎么过啊",
+        "frame": "task"
+    },
+    "parent": "bm:mainline/level36",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
